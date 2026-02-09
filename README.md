@@ -1,3 +1,12 @@
+## Forked Team Project
+
+**My Contributions:**
+- Developed backend APIs for service discovery and user management
+- Implemented database integration for storing user profiles and institution data
+- Contributed to AI-based recommendation logic for personalized results
+- Worked on accessibility-focused features and location-based filtering
+
+---
 
 🧩 AI-Powered Accessible Education & Care Finder
 
